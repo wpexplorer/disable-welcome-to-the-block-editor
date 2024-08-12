@@ -1,3 +1,5 @@
+<?php
+
 /*
  * Plugin Name: Disable "Welcome to the Block Editor"
  */
